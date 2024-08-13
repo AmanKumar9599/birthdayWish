@@ -15,7 +15,7 @@ a.addEventListener("click",function(){
 b.addEventListener("click",function(){
     p.innerHTML="😔<br>What are you doing here? <br> Jis din Birthday ho us din aana!! <br> !!chalo bye niklo ab!!"
     p.style.color="red";
-    p.style.fontSize="250%";
+    p.style.fontSize="200%";
     p.style.fontWeight="bolder";
     a.style.display="none";
     b.style.display="none";
